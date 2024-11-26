@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋, I'm Aminur Rahman Rahi
-#### A Full Stack Web Programmer
+#### About Me
 
 👋 Hello Everyone!
 I am Aminur Rahman Rahi, a dedicated Full-Stack Developer who thrives on turning complex ideas into seamless digital experiences. 🚀
